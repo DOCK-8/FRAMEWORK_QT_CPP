@@ -34,4 +34,4 @@ MainWindow/
         └── QPushButton: P_Res (-)
 ```
 ## IMAGE
-<img src="/IMG/MC_1.png">
+<img src=".\IMG\MC_1.png">
