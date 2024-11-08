@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Project_1_Calculadora_FILE /home/dock/Documents/GITHUB_QT/Project_1_Calculadora/build/Desktop_Qt_6_8_0-Debug/Project_1_Calculadora)
+set(__QT_DEPLOY_TARGET_Project_1_Calculadora_TYPE EXECUTABLE)

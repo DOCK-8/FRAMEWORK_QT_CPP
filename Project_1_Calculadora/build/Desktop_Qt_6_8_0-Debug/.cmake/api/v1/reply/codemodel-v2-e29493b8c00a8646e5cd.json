@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1f428feb6272c1758107.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project_1_Calculadora",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Project_1_Calculadora::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project_1_Calculadora-Debug-6c6c5a860b0e5f5c1bff.json",
+					"name" : "Project_1_Calculadora",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Project_1_Calculadora_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project_1_Calculadora_autogen-Debug-063f355cd2c7029032bb.json",
+					"name" : "Project_1_Calculadora_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Project_1_Calculadora_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project_1_Calculadora_autogen_timestamp_deps-Debug-0b589a2d3fc799d473f3.json",
+					"name" : "Project_1_Calculadora_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dock/Documents/GITHUB_QT/Project_1_Calculadora/build/Desktop_Qt_6_8_0-Debug",
+		"source" : "/home/dock/Documents/GITHUB_QT/Project_1_Calculadora"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
