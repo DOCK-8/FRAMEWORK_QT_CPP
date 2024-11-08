@@ -4,9 +4,7 @@ Primero cree la estructura basada gridslayout, y para las acciones use los QButt
 para poder reconocer las entradas, luego de ello reflejamos los resultados de las operaciones en un label, que 
 en nuestro caso sera llamado con consola.
 Para el usuario pueda ver sus operaciones pasadas genere otro label para guardar ahi estas operaciones
-## STRUCT
-# Estructura de la Interfaz
-# Estructura de la Interfaz de Usuario
+## USER INTERFACE STRUCT
 ```plaintext
 MainWindow/
 │
@@ -36,4 +34,4 @@ MainWindow/
         └── QPushButton: P_Res (-)
 ```
 ## IMAGE
-
+<img src="/IMG/MC_1.png">
