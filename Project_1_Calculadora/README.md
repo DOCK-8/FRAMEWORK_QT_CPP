@@ -6,21 +6,34 @@ en nuestro caso sera llamado con consola.
 Para el usuario pueda ver sus operaciones pasadas genere otro label para guardar ahi estas operaciones
 ## STRUCT
 # Estructura de la Interfaz
-
+# Estructura de la Interfaz de Usuario
 ```plaintext
 MainWindow/
 │
 └── CentralWidget/
     │
-    ├── VerticalLayout/
-    │   ├── Label 1
-    │   └── Label 2
+    ├── VerticalLayoutWidget/
+    │   │
+    │   ├── QLabel: historial (Deshabilitado)
+    │   └── QLabel: consola
     │
     └── GridLayout/
-        ├── Button 1
-        ├── Button 2
-        ├── Button 3
-        └── Button 4
+        │
+        ├── QPushButton: P_9
+        ├── QPushButton: P_7
+        ├── QPushButton: P_8
+        ├── QPushButton: P_6
+        ├── QPushButton: P_5
+        ├── QPushButton: P_4
+        ├── QPushButton: P_3
+        ├── QPushButton: P_2
+        ├── QPushButton: P_1
+        ├── QPushButton: P_0
+        ├── QPushButton: P_clear (C)
+        ├── QPushButton: P_Sum (+)
+        ├── QPushButton: P_Mul (*)
+        ├── QPushButton: P_Div (/)
+        └── QPushButton: P_Res (-)
 ```
 ## IMAGE
 
